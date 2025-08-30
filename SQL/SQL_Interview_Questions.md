@@ -27,7 +27,7 @@
 - **EY:** [Click Here](https://github.com/RoopeshSinghal/SQL-Interview-Questions/blob/main/Q23.md)  
 - **Google:** [Click Here](https://github.com/RoopeshSinghal/SQL-Interview-Questions/blob/main/Q24.md)  
 - **Amazon:** [Click Here](https://github.com/RoopeshSinghal/SQL-Interview-Questions/blob/main/Q25.md)  
-- **JP Morgan, Chase & Bloomberg:** [Click Here](https://github.com/RoopeshSinghal/SQL-Interview-Questions/blob/main/Q26.md)  
+- **JP Morgan Chase & Bloomberg:** [Click Here](https://github.com/RoopeshSinghal/SQL-Interview-Questions/blob/main/Q26.md)  
 - **PayPal:** [Click Here](https://github.com/RoopeshSinghal/SQL-Interview-Questions/blob/main/Q27.md)  
 - **Walmart:** [Click Here](https://github.com/RoopeshSinghal/SQL-Interview-Questions/blob/main/Q28.md)  
 - **Apple:** [Click Here](https://github.com/RoopeshSinghal/SQL-Interview-Questions/blob/main/Q29.md)  
