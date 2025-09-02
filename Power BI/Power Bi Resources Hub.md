@@ -11,7 +11,7 @@
 
 ---
 
-#### Books
+### Books
 - **PBI for the Excel Analyst (all rounder)** – [Click Here](https://pbi.guide/book/)  
 - **Master Your Data (Power Query)** – [Click Here](https://skillwave.training/shop/master-your-data/)  
 - **PQ Beyond User Interface** – [Click Here](https://goodly.co.in/power-query-book/)  
@@ -22,7 +22,9 @@
 - **Story Telling with Data** – [Click Here](https://www.storytellingwithdata.com/books)  
 - **Big Book of Dashboards** – [Click Here](https://www.bigbookofdashboards.com/)  
 
-#### Data Sources and Practice Datasets
+=========================
+
+### Data Sources and Practice Datasets
 - **Coffee Shop Sales & Gym Membership Data Only** – [Click Here](https://pbi.guide/wp-content/uploads/2023/04/Gym-Membership-and-Coffee-Shop-Data-Sources.zip)  
 - **Workout Wednesday** – [Click Here](https://workout-wednesday.com/power-bi-challenges/)  
 - **Kaggle** – [Click Here](https://www.kaggle.com/datasets)  
@@ -30,7 +32,9 @@
 - **Data.Gov** – [Click Here](https://data.gov/)  
 - **Access Analytic Templates and Downloads** – [Click Here](https://accessanalytic.com.au/free-excel-stuff/free-excel-templates/)  
 
-#### YouTube Channels
+=========================
+
+### YouTube Channels
 - **Access Analytic** – [Click Here](https://www.youtube.com/c/AccessanalyticAus)  
 - **Guy in a Cube** – [Click Here](https://www.youtube.com/c/GuyinaCube)  
 - **SQLBI** – [Click Here](https://www.youtube.com/c/SQLBI)  
@@ -55,7 +59,9 @@
 - **Wyn - Power Query Magic** – [Click Here](https://www.youtube.com/c/PowerQueryMagic)  
 - **Kasper on BI** – [Click Here](https://www.youtube.com/c/KasperOnBI)  
 
-#### Blogs
+=========================
+
+### Blogs
 - **Data Goblins** – [Click Here](https://data-goblins.com/)  
 - **Radacad** – [Click Here](https://radacad.com/)  
 - **Chris Webb** – [Click Here](https://blog.crossjoin.co.uk/)  
@@ -72,7 +78,9 @@
 - **Metrics Treb Gatte** – [Click Here](https://powerbimetrics.com/)  
 - **Paul Turley** – [Click Here](https://sqlserverbi.blog/)  
 
-#### Podcasts and Interviews
+=========================
+
+### Podcasts and Interviews
 - **Raw Data - Rob Collie** – [Click Here](https://www.rawdata.club/)  
 - **BiFocal** – [Click Here](https://bifocal.show/)  
 - **Power BI Guy** – [Click Here](https://www.powerbiguy.com/podcast)  
@@ -80,7 +88,9 @@
 - **Figuring Out Fabric** – [Click Here](https://figuringoutfabric.com/)  
 - **Lars Schreiber SSBI** – [Click Here](https://www.lars-schreiber.de/podcast/)  
 
-#### External Tools & Helper Sites
+=========================
+
+### External Tools & Helper Sites
 - **DAX.guide** – [Click Here](https://dax.guide/)  
 - **DAXFormatter.com** – [Click Here](https://www.daxformatter.com/)  
 - **PowerQuery.how (Rick de Groot)** – [Click Here](https://powerquery.how/)  
