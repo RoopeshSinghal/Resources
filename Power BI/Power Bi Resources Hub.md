@@ -1,6 +1,6 @@
 
 # Power Bi Resources Hub
-## The Ultimate Collection of Power BI Resource
+## The Ultimate Collection of Power BI Resources
 
 ## Table of Contents
 - [Books](#books)  
