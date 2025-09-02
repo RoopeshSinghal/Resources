@@ -22,8 +22,6 @@
 - **Story Telling with Data** – [Click Here](https://www.storytellingwithdata.com/books)  
 - **Big Book of Dashboards** – [Click Here](https://www.bigbookofdashboards.com/)  
 
-=========================
-
 > ---
 
 ### Data Sources and Practice Datasets
@@ -34,7 +32,7 @@
 - **Data.Gov** – [Click Here](https://data.gov/)  
 - **Access Analytic Templates and Downloads** – [Click Here](https://accessanalytic.com.au/free-excel-stuff/free-excel-templates/)  
 
-=========================
+> ---
 
 ### YouTube Channels
 - **Access Analytic** – [Click Here](https://www.youtube.com/c/AccessanalyticAus)  
@@ -61,7 +59,7 @@
 - **Wyn - Power Query Magic** – [Click Here](https://www.youtube.com/c/PowerQueryMagic)  
 - **Kasper on BI** – [Click Here](https://www.youtube.com/c/KasperOnBI)  
 
-=========================
+> ---
 
 ### Blogs
 - **Data Goblins** – [Click Here](https://data-goblins.com/)  
@@ -80,7 +78,7 @@
 - **Metrics Treb Gatte** – [Click Here](https://powerbimetrics.com/)  
 - **Paul Turley** – [Click Here](https://sqlserverbi.blog/)  
 
-=========================
+> ---
 
 ### Podcasts and Interviews
 - **Raw Data - Rob Collie** – [Click Here](https://www.rawdata.club/)  
@@ -90,7 +88,7 @@
 - **Figuring Out Fabric** – [Click Here](https://figuringoutfabric.com/)  
 - **Lars Schreiber SSBI** – [Click Here](https://www.lars-schreiber.de/podcast/)  
 
-=========================
+> ---
 
 ### External Tools & Helper Sites
 - **DAX.guide** – [Click Here](https://dax.guide/)  
