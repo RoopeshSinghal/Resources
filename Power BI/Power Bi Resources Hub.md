@@ -1,5 +1,6 @@
-# One stop solution for Power BI  
-## Awesome helpful resources for learning Power BI  
+
+# Power Bi Resources Hub
+## The Ultimate Collection of Power BI Resource
 
 ## Table of Contents
 - [Books](#books)  
