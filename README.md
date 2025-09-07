@@ -25,7 +25,7 @@ This repository was created to:
 
 ## 🔗 How to Use  
 
-- Navigate to the folder of interest (`SQL/`, `Python/`, or `Power BI/`).  
+- Navigate to the folder of interest.  
 - Explore curated **links, guides, and external references**.  
 - Bookmark this repo as your personal learning library.  
 
