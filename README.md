@@ -1,7 +1,7 @@
 
 # 📚 Resources  
 
-Welcome to **Resources** – a central hub created to bring together learning materials, cheatsheets, tutorials, and references for key data and tech skills.  
+Welcome to **Resources**, a central hub created to bring together learning materials, cheatsheets, tutorials, and references for key data and tech skills.  
 This repository is designed to serve as a **one-stop place** for anyone learning or practicing different tech tools
 
 ---
