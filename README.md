@@ -8,9 +8,9 @@ This repository is designed to serve as a **one-stop place** for anyone learning
 
 ## 📂 Repository Structure  
 
-- [SQL/](./SQL)  
-- [Python/](./Python)  
-- [Power BI/](./PowerBI)  
+- [SQL](./SQL)  
+- [Python](./Python)  
+- [Power BI](./Power%20BI)  
 
 ---
 
