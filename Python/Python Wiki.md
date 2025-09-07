@@ -48,9 +48,23 @@ Bookmark these!
 - [Think Python](https://greenteapress.com/wp/think-python-2e/)  
 - [The Coder’s Apprentice](https://www.spronck.net/pythonbook/)  
 - [TokyoEdtech’s Intro to Python for Beginners (PDF)](https://www.tokyoedtech.com/)  
-- [Page of Python Books Sorted by Popularity](https://pythonbooks.org/)  
+- [Page of Python Books Sorted by Popularity](https://pythonbooks.org/)
 
 ---
+
+# 📺 YouTube Channels  
+
+- [Corey Schafer](https://www.youtube.com/c/Coreyms)  
+- [Sentdex](https://www.youtube.com/c/sentdex)  
+- [Real Python](https://www.youtube.com/c/realpython)  
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)  
+- [CS Dojo (YK)](https://www.youtube.com/c/CSDojo)  
+- [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh)  
+- [Tech With Tim](https://www.youtube.com/c/TechWithTim)  
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)  
+- [The Net Ninja](https://www.youtube.com/c/TheNetNinja)  
+- [Derek Banas](https://www.youtube.com/c/derekbanas)  
+- [freeCodeCamp](https://www.youtube.com/c/Freecodecamp)  
 
 ## 🎥 Videos & Lectures  
 
