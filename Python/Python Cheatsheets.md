@@ -13,7 +13,7 @@
 - **Manipulating Strings**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/manipulating-strings)  
 - **String Formatting**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/string-formatting)  
 - **Regular Expressions**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/regular-expressions)  
-- **Files and Directory Paths**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/files-and-directory-paths)  
+- **Files and Directory Paths**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/file-directory-path)  
 - **Reading and Writing Files**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/reading-and-writing-files)  
 - **JSON and YAML**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/json-and-yaml)  
 - **Exception Handling**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/exception-handling)  
