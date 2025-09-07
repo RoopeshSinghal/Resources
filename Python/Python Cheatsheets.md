@@ -1,0 +1,28 @@
+# Python Cheatsheets
+
+## A collection of Python cheatsheets for quick reference.  
+
+- **Basics**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/basics)  
+- **Built-in Functions**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/built-in-functions)  
+- **Control Flow**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/control-flow)  
+- **Functions**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/functions)  
+- **Lists and Tuples**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/lists-and-tuples)  
+- **Dictionaries**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/dictionaries)  
+- **Sets**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/sets)  
+- **Comprehensions**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/comprehensions)  
+- **Manipulating Strings**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/manipulating-strings)  
+- **String Formatting**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/string-formatting)  
+- **Regular Expressions**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/regular-expressions)  
+- **Files and Directory Paths**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/files-and-directory-paths)  
+- **Reading and Writing Files**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/reading-and-writing-files)  
+- **JSON and YAML**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/json-and-yaml)  
+- **Exception Handling**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/exception-handling)  
+- **Debugging**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/debugging)  
+- **Args and Kwargs**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/args-and-kwargs)  
+- **Decorators**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/decorators)  
+- **Context Manager**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/context-manager)  
+- **OOP (Object-Oriented Programming)**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/oop-basics)  
+- **Dataclasses**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/dataclasses)  
+- **setup.py**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/setup.py)  
+- **Main (Top-level Script)**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/main)  
+- **Virtual Environments**: [Click Here](https://www.pythoncheatsheet.org/cheatsheet/virtual-environments)  
