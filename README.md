@@ -8,6 +8,7 @@ This repository is designed to serve as a **one-stop place** for anyone learning
 
 ## 📂 Repository Structure  
 
+- [Excel](./Excel) 
 - [SQL](./SQL)  
 - [Python](./Python)  
 - [Power BI](./Power%20BI)  
